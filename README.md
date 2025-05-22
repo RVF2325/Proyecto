@@ -1,2 +1,3 @@
 # Proyecto
 Proyecto
+Es un proyecto que se centra en la gestion de animales callejeros que son cuidados en un albergue donde mediante una aplicacion que puede ser utilizado tanto para trabajadores como para clientes cada uno con su propia contraseña para poder acceder para saber quuien es trabajador y quien es usuario, cada rol tiene diferente modo de operar, los usuarios tendran el rol de poder registrar un animal que encuentren, donar cierta cantidad de dinero, donar articulos, mientras que el trabajador tiene las opciones de gestionar, editar el almacenamiento, poder ver una lista de los animales adoptados
