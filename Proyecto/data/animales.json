@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "nombre": "Maximo",
+        "raza": "Gato Meztizo",
+        "tamano": 25.0,
+        "genero": "Macho",
+        "adoptado": true,
+        "fecha_registro": "2025-05-23 23:14:15",
+        "fecha_adopcion": "2025-05-23 23:20:50",
+        "id_adoptante": null
+    },
+    {
+        "id": 2,
+        "nombre": "Pacha",
+        "raza": "Gato siames",
+        "tamano": 20.0,
+        "genero": "Macho",
+        "adoptado": false,
+        "fecha_registro": "2025-05-23 23:23:16",
+        "fecha_adopcion": null,
+        "id_adoptante": null
+    }
+]

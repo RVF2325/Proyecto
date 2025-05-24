@@ -1,0 +1,9 @@
+[
+    {
+        "id": 1,
+        "cantidad": 800.0,
+        "metodo_pago": "Tarjeta",
+        "fecha": "2025-05-23 23:14:57",
+        "id_donador": 1
+    }
+]

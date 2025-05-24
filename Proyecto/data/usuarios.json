@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "nombre": "Saul",
+        "edad": 27,
+        "genero": "Masculino",
+        "rol": "usuario",
+        "contrasena": "12345",
+        "fecha_registro": "2025-05-23 23:07:18",
+        "activo": true
+    },
+    {
+        "id": 2,
+        "nombre": "Fatima",
+        "edad": 23,
+        "genero": "Femenino",
+        "rol": "trabajador",
+        "contrasena": "12345678",
+        "fecha_registro": "2025-05-23 23:11:55",
+        "activo": true
+    }
+]

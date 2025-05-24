@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "nombre_producto": "Costales de croquetas 1kg",
+        "cantidad": 3,
+        "tamano": "Grande",
+        "fecha": "2025-05-23 23:15:50",
+        "id_donador": 1,
+        "utilizado": false
+    }
+]
